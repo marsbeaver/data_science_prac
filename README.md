@@ -1,4 +1,4 @@
 # data_science_prac
 Practicing data science python
-![](Iris_Linear_Regression.png)
-![](wine_Linear_Regression.png)
+![Iris](Iris_Linear_Regression.png)
+![Wine](wine_Linear_Regression.png)
